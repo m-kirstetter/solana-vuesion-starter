@@ -1,6 +1,6 @@
 # Solana Vuesion Starter
 
-_**Based on Vuesion. Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.**_
+_**Quickstart template for Solana development with wallet-adapter. Based on Vuesion. Vuesion is a boilerplate that helps product teams build faster than ever with fewer headaches and modern best practices across engineering & design.**_
 
 # Features
 
@@ -24,9 +24,10 @@ _**Based on Vuesion. Vuesion is a boilerplate that helps product teams build fas
 
 ## Core
 
-- server-side-rendering, single-page-app or statically generated HTML with [Nuxt.js](https://nuxtjs.org/)
+-
 - [Ant Design Vue](https://www.antdv.com/docs/vue/introduce/)
 - [Anchor](https://project-serum.github.io/anchor/getting-started/introduction.html)
+- server-side-rendering, single-page-app or statically generated HTML with [Nuxt.js](https://nuxtjs.org/)
 - [Figma UIKit](https://www.figma.com/file/DvP4EE7gAJH3fsc4RFqZYc/Vuesion-Core?node-id=1686%3A4660)
 - [SEO support](https://github.com/nuxt/vue-meta)
 - [i18n support](https://i18n.nuxtjs.org/)

@@ -1,7 +1,6 @@
 const anchor = require('@project-serum/anchor');
 
 describe('anchor', () => {
-
   // Configure the client to use the local cluster.
   anchor.setProvider(anchor.Provider.env());
 
@@ -9,6 +8,6 @@ describe('anchor', () => {
     // Add your test here.
     const program = anchor.workspace.Anchor;
     const tx = await program.rpc.initialize();
-    console.log("Your transaction signature", tx);
+    console.log('Your transaction signature', tx);
   });
 });
